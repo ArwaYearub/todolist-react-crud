@@ -1,5 +1,5 @@
 {
-  "name": "Todo List Application",
+  "name": "todolist-react-crud",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
